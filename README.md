@@ -1,2 +1,2 @@
 # Python
-Exploratory Data Analysis & Machine Learning on Social Anxiety Dataset
+Beginer python codes that I used for practicing 
